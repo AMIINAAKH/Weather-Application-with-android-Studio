@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MiniProjetWeather</string>
+    <string name="textview">TextView</string>
+    <string name="_20">20</string>
+    <string name="todo">TODO</string>
+    <string name="today">Today</string>
+    <string name="next_7_day">Next 7 Day</string>
+    <string name="humidity">Humidity</string>
+    <string name="_18">18%</string>
+    <string name="todoo">TODO</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="_12_km_h">12 Km/h</string>
+    <string name="rain">Rain</string>
+    <string name="_22">22%</string>
+    <string name="h_27_l_18">H:27 L:18</string>
+    <string name="_25">25°</string>
+    <string name="mon_june_17_10_00_am">Mon June 17 | 10:00 AM</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="tommorow">Tommorow</string>
+    <string name="_Tomorrow" />
+    <string name="_Mostly_Cloudy" />
+    <string name="status">status</string>
+    <string name="_10">10</string>
+    <string name="day">day</string>
+</resources>
